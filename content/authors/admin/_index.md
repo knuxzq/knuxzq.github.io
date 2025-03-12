@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 徐子强
+title: Xu Ziqiang
 
 # # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
