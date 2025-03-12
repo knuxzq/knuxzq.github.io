@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 硕士生/석사과정/Master's student
+role: Master's student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -38,13 +38,13 @@ profiles:
 
 
 interests:
-  - 人工智能/인공지능/Artificial Intelligence
-  - 深度学习/딥러닝/Deep Learning
-  - 计算机视觉/컴퓨터비전/Computer Vision
+  - Artificial Intelligence
+  - Deep Learning
+  - Computer Vision
 
 education:
-  - area: 硕士生/석사과정/Master’s student
-    institution: 韩国庆北国立大学/경북대학교/Kyungpook National University
+  - area: Master’s student
+    institution: Kyungpook National University
     date_start: 2024-03-01
     date_end: 2026-02-01
     # summary: |
@@ -133,11 +133,11 @@ skills:
         icon: camera
 
 languages:
-  - name: 汉语/중국어/Chinese
+  - name: Chinese
     percent: 100
-  - name: 韩语/한국어/Korean
+  - name: Korean
     percent: 50
-  - name: 英语/영어/English
+  - name: English
     percent: 50
 
 # Awards.
@@ -173,9 +173,5 @@ awards:
 ---
 
 ## About Me
-
-您好，欢迎访问我的个人主页，你好，我是庆北大学机器人与智能系统工程系 & AI融合安全学系的硕士二年级学生，我的研究兴趣包括人工智能、深度学习和计算机视觉。目前，我的主要研究集中在基于深度学习技术的卫星图像处理和天体目标识别。
-
-안녕하세요, 저는 경북대학교 로봇 및 스마트시스템공학과 & AI융합안전융합학과 석사과정 2학년입니다. 저의 관심 분야는 인공지능, 딥러닝 및 컴퓨터 비전입니다. 현재 진행중인 연구는 딥러닝 기술을 기반으로 위성 이미지 처리 및 우주 천체 인식입니다.
 
 Hello, I am a second-year master's student in the Department of Robot and Smart System Engineering & AI Convergence Security at Kyungpook National University. My areas of interest include artificial intelligence, deep learning, and image processing. Currently, my primary research focuses on satellite image processing and cosmic object recognition based on deep learning techniques.
