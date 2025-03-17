@@ -43,10 +43,20 @@ interests:
   - Computer Vision
 
 education:
-  - area: Master’s student
-    institution: Kyungpook National University
+  - area: M.S.
+    institution: Advanced Institute of Science and Technology, Kyungpook National University
     date_start: 2024-03-01
     date_end: 2026-02-01
+      button:
+        text:"Advisor: Bubyurl Kim(김법렬)"
+        url: 'https://scholar.google.co.kr/citations?hl=ko&user=D-qdEBcAAAAJ'
+  - area: B.S.
+    institution: College of Information and Business, North University of China
+    date_start: 2019-09-01
+    date_end: 2023-07-01
+      button:
+        text:"Advisor: Yingliang Zhao(赵英亮)"
+        url: 'https://5y.nuc.edu.cn/info/1695/12878.htm'
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
   #   button:
