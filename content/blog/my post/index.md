@@ -1,5 +1,5 @@
 ---
-title: My first blog post
+title: Xu Ziqiang's News
 date: 2025-06-10
 ---
 

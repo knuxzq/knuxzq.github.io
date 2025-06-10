@@ -40,7 +40,7 @@ profiles:
     #label: Download my resume
   - icon: github
     url: https://github.com/knuxzq?tab=repositories
-    label: Github
+    label: github
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -49,16 +49,14 @@ highlight_name: true
 website: ""
 ---
 
-Hello! I'm Ziqiang Xu, a second-year Master’s student at Kyungpook National University, majoring in Robot and Smart System Engineering and AI Safety Convergence. My research interests include deep learning, computer vision, image processing and so on. 
+Hello! I'm Ziqiang Xu, born in 2002, a second-year Master’s student at Kyungpook National University, majoring in Robot and Smart System Engineering and AI Safety Convergence. My research interests include AI, deep learning, computer vision, image processing and so on. 
 
 Now, I have completed projects such as:
 
-1.A laboratory management system based on WeChat Mini Programs(2023)
+1.A laboratory management system based on WeChat Mini Programs [Undergraduate thesis] (2023)
 
-2.Green space detection and quantification in remote sensing images based on ViT(2024)
+2.Green space detection and quantification in remote sensing images based on ViT [submitted to a journal] (2025)
 
-3.Astronomical object recognition based on deep learning(2025)
+3.Astronomical object recognition based on deep learning [being further expanded] (2025)
 
-Currently, I’m working on:
-
-Detection and analysis of cosmic resources based on image data
+Currently, I’m working on Detection and analysis of cosmic resources based on image data.
