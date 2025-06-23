@@ -53,7 +53,7 @@ Hello! I'm Ziqiang Xu, born in 2002, a second-year Master’s student at Kyungpo
 
 Now, I have completed projects such as:
 
-**1.A laboratory management system based on WeChat Mini Programs  **
+1.A laboratory management system based on WeChat Mini Programs  
 [Undergraduate thesis] (2023)
 
 2.Green space detection and quantification in remote sensing images based on ViT  
