@@ -44,16 +44,16 @@ To address these challenges, this study introduces MultiScale-GreenViT, an impro
 
 ## Experimental Environment 💻
 
-**Hardware**
-  GPU: NVIDIA GeForce RTX 3090
-  RAM: 128 GB
-  OS: Windows 11
+**Hardware**  
+  GPU: NVIDIA GeForce RTX 3090  
+  RAM: 128 GB  
+  OS: Windows 11  
 
-**Environment**
-  Python 3.9
-  PyTorch 2.3.1
-  CUDA 11.8
-  OpenCV 4.10.0
+**Environment**  
+  Python 3.9  
+  PyTorch 2.3.1  
+  CUDA 11.8  
+  OpenCV 4.10.0  
 
 ⚠️ **When the paper is officially published, I will share more details and provide the link to the full article** 🦄✨
 

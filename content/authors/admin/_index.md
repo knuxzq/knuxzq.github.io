@@ -25,7 +25,7 @@ organizations:
     url: https://robot.knu.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: If there's anything you're curious about or want to ask, don't hesitate to reach out! 😊
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -48,19 +48,19 @@ highlight_name: true
 # Author's website URL
 website: ""
 ---
-Hello, my name is Ziqiang Xu. I was born in 2002 and am currently a second-year Master’s student in the Department of Robotics & Intelligent Systems Engineering and the AI Convergence Security program at Kyungpook National University. I am conducting my research under the supervision of Professor [Bubryur Kim](https://home.knu.ac.kr/HOME/aerospace/sub.htm?nav_code=aer1694405502) at the Artificial Intelligence Application Lab. During my undergraduate studies, I had the great honor of collaborating with and receiving guidance from Professors [Yingliang Zhao](https://5y.nuc.edu.cn/info/1695/12878.htm).
+Hello, my name is Ziqiang Xu. I was born in 2002 and am currently a second-year Master’s student in the Department of Robotics & Intelligent Systems Engineering and the AI Convergence Security program at Kyungpook National University. I am conducting my research under the supervision of Professor [Bubryur Kim](https://home.knu.ac.kr/HOME/aerospace/sub.htm?nav_code=aer1694405502) at the Artificial Intelligence Application Lab. During my undergraduate studies, I had the great honor of collaborating with and receiving guidance from Professor [Yingliang Zhao](https://5y.nuc.edu.cn/info/1695/12878.htm).
 
 My research interests include artificial intelligence, deep learning, computer vision, image processing, and related fields.
 
 I have completed several projects, including:
 
-1. A Laboratory Management System Based on WeChat Mini Programs 
+1. A Laboratory Management System Based on WeChat Mini Programs  
    – Undergraduate Thesis (2023)
 
-2. MultiScale-GreenViT: A Vision Transformer Framework for High-Precision Urban Green Space Segmentation and Quantification
+2. MultiScale-GreenViT: A Vision Transformer Framework for High-Precision Urban Green Space Segmentation and Quantification  
    – Submitted to a journal (2025)
 
-3. Astronomical Object Recognition Based on Deep Learning
+3. Astronomical Object Recognition Based on Deep Learning  
    – Currently being further developed (2025)
 
 At present, I am working on the detection and analysis of cosmic resources based on image data.
