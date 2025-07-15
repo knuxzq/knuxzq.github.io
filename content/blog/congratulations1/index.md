@@ -3,7 +3,6 @@ title: "🎉 My paper abstract has been accepted for presentation at the C3 Symp
 summary: "Congratulations~"
 date: 2025-04-24
 image:
-  preview: "accept-letter.jpg"
   caption: "Image credit: **C3 Symposium 2025**"
 authors:
   - admin
