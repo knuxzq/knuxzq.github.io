@@ -48,7 +48,7 @@ highlight_name: true
 # Author's website URL
 website: ""
 ---
-Hello, my name is Ziqiang Xu. I was born in 2002 and am currently a second-year Master’s student in the Department of Robotics & Intelligent Systems Engineering and the AI Convergence Security program at Kyungpook National University. I am conducting my research under the supervision of Professor [Bubryur Kim](https://home.knu.ac.kr/HOME/aerospace/sub.htm?nav_code=aer1694405502) at the Artificial Intelligence Application Lab. During my undergraduate studies, I had the great honor of collaborating with and receiving guidance from Professors [Xiwang Yang](https://cst.nuc.edu.cn/info/1019/1334.htm) and [Yingliang Zhao](https://5y.nuc.edu.cn/info/1695/12878.htm).
+Hello, my name is Ziqiang Xu. I was born in 2002 and am currently a second-year Master’s student in the Department of Robotics & Intelligent Systems Engineering and the AI Convergence Security program at Kyungpook National University. I am conducting my research under the supervision of Professor [Bubryur Kim](https://home.knu.ac.kr/HOME/aerospace/sub.htm?nav_code=aer1694405502) at the Artificial Intelligence Application Lab. During my undergraduate studies, I had the great honor of collaborating with and receiving guidance from Professors [Yingliang Zhao](https://5y.nuc.edu.cn/info/1695/12878.htm).
 
 My research interests include artificial intelligence, deep learning, computer vision, image processing, and related fields.
 
