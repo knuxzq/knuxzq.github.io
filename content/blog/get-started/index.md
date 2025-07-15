@@ -1,7 +1,7 @@
 ---
-title: 🎉 Xu's abstract has been accepted for publication in the conference proceedings.
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: 🎉 The research on "MultiScale-GreenViT: A Vision Transformer Framework for High-Precision Urban Green Space Segmentation and Quantification" has been successfully completed.
+summary: A more in-depth study is currently underway~
+date: 2025-04-05
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -10,77 +10,55 @@ image:
 
 authors:
   - admin
-  - Ted
 
 tags:
   - Academic
-  - Hugo Blox
-  - Markdown
 ---
 
 Welcome 👋
 
 {{< toc mobile_only=true is_open=true >}}
 
-## Overview
+## Research Background 📌 
 
-1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+Urban green spaces play a crucial role in mitigating urban heat islands, purifying air, and improving public health. With the rapid pace of urbanization, accurate monitoring of green areas has become increasingly important for sustainable city planning.
+
+However, traditional monitoring methods—such as manual surveys or HSV-based image analysis—face serious limitations in accuracy, scalability, and adaptability to complex urban scenes. Convolutional Neural Networks (CNNs), though successful in remote sensing tasks, suffer from limited receptive fields and struggle to model long-range dependencies, often resulting in poor boundary delineation.
+
+To address these challenges, this study introduces MultiScale-GreenViT, an improved Vision Transformer (ViT)-based framework designed to perform precise segmentation and area measurement of urban green spaces.
 
 [//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
 
-### Get Started
+## Research Methodology 🔍
 
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
-- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) #MadeWithHugoBlox
-- 💡 [Request a **feature** or report a **bug** for _Hugo Blox_](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating Hugo Blox?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+1️⃣ **Multi-Scale Feature Fusion**
+- A pyramid-based architecture is adopted to combine local and global features across multiple resolutions (14×14 to 224×224 pixels). This enhances the model’s ability to detect narrow, scattered, or shadowed green patches in urban environments.
 
-## Crowd-funded open-source software
+2️⃣ **Hybrid Loss Function**
+- A weighted combination of Cross-Entropy Loss and Dice Loss addresses class imbalance and improves both pixel-wise accuracy and region-level consistency in segmentation.
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+3️⃣ **Accurate Area Measurement**
+- The framework integrates geospatial information to convert pixel-level segmentation outputs into real-world area estimations, achieving 99.64% accuracy in green space measurement.
 
-### [❤️ Click here to become a sponsor and help support Hugo Blox's future ❤️](https://hugoblox.com/sponsor/)
+4️⃣ **Optimized Deep ViT Architecture**
+- The model utilizes 24 transformer layers with 16 attention heads, enabling better learning of long-range dependencies and complex spatial relationships.
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://hugoblox.com/sponsor/) awesome rewards and extra features 🦄✨**
+5️⃣ **Data Augmentation & Sliding Window Sampling**
+- To handle ultra-high-resolution images, a sliding window method (224×224 window with 112 stride) is used, along with data augmentation techniques such as flipping, rotation, and color jitter to improve generalization.
 
-## Ecosystem
+## Experimental Environment 💻
 
-- **[Bibtex To Markdown](https://github.com/GetRD/academic-file-converter):** Automatically import publications from BibTeX
+**Hardware**
+  GPU: NVIDIA GeForce RTX 3090
+  RAM: 128 GB
+  OS: Windows 11
 
-## Inspiration
+**Enviroment**
+  Python 3.9
+  PyTorch 2.3.1
+  CUDA 11.8
+  OpenCV 4.10.0
 
-[Learn what other **creators**](https://hugoblox.com/creators/) are building with this template.
+⚠️ **When the paper is officially published, I will share more details and provide the link to the full article** 🦄✨
 
-## Features
 
-- **Page builder** - Create _anything_ with no-code [**blocks**](https://hugoblox.com/blocks/) and [**elements**](https://docs.hugoblox.com/reference/markdown/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://docs.hugoblox.com/reference/markdown/), [**Jupyter**](https://docs.hugoblox.com/getting-started/cms/), or [**RStudio**](https://docs.hugoblox.com/getting-started/cms/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/getting-started/customize/)
-- **Display Code and Math** - Code syntax highlighting and LaTeX math supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one-page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 35+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Hugo Blox and its templates come with **automatic day (light) and night (dark) mode** built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.
-
-[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/getting-started/customize/) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.

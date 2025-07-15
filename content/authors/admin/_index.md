@@ -1,13 +1,13 @@
 ---
 # Display name
-title: XU ZIQIANG
+title: Ziqiang Xu
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Ziqiang
-last_name: XU
+last_name: Xu
 
 # Status emoji
 status:
@@ -54,13 +54,13 @@ My research interests include artificial intelligence, deep learning, computer v
 
 I have completed several projects, including:
 
-1. **A Laboratory Management System Based on WeChat Mini Programs**  
+1. A Laboratory Management System Based on WeChat Mini Programs 
    – Undergraduate Thesis (2023)
 
-2. **Green Space Detection and Quantification in Remote Sensing Images Based on ViT**  
+2. MultiScale-GreenViT: A Vision Transformer Framework for High-Precision Urban Green Space Segmentation and Quantification
    – Submitted to a journal (2025)
 
-3. **Astronomical Object Recognition Based on Deep Learning**  
+3. Astronomical Object Recognition Based on Deep Learning
    – Currently being further developed (2025)
 
 At present, I am working on the detection and analysis of cosmic resources based on image data.
