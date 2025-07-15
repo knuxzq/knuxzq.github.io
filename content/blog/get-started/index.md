@@ -1,19 +1,15 @@
 ---
-title: The research on "MultiScale-GreenViT: A Vision Transformer Framework for High-Precision Urban Green Space Segmentation and Quantification" has been successfully completed.
-summary: A more in-depth study is currently underway~
+title: title: "🎉 The research on MultiScale-GreenViT: A Vision Transformer Framework for High-Precision Urban Green Space Segmentation and Quantification has been successfully completed"
+summary: "A more in-depth study is currently underway~"
 date: 2025-04-05
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
-
+  caption: "Image credit: [**Unsplash**](https://unsplash.com)"
 authors:
   - admin
-
 tags:
   - Academic
 ---
+
 
 🎉 Welcome 👋
 
