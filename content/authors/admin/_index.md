@@ -48,22 +48,22 @@ highlight_name: true
 # Author's website URL
 website: ""
 ---
-
-Hello, my name is Ziqiang Xu. I was born in 2002 and am currently a second-year Master’s student in the Department of Robotics & Intelligent Systems Engineering and the AI Convergence Security program at Kyungpook National University. I am conducting my research under the supervision of Professor Bubryur Kim at the Artificial Intelligence Application Lab. During my undergraduate studies, I had the great honor of collaborating with and receiving guidance from Professors Xiwang Yang and Yingliang Zhao.
+Hello, my name is Ziqiang Xu. I was born in 2002 and am currently a second-year Master’s student in the Department of Robotics & Intelligent Systems Engineering and the AI Convergence Security program at Kyungpook National University. I am conducting my research under the supervision of Professor [Bubryur Kim](https://home.knu.ac.kr/HOME/aerospace/sub.htm?nav_code=aer1694405502) at the Artificial Intelligence Application Lab. During my undergraduate studies, I had the great honor of collaborating with and receiving guidance from Professors [Xiwang Yang](https://cst.nuc.edu.cn/info/1019/1334.htm) and [Yingliang Zhao](https://5y.nuc.edu.cn/info/1695/12878.htm).
 
 My research interests include artificial intelligence, deep learning, computer vision, image processing, and related fields.
 
 I have completed several projects, including:
 
-A Laboratory Management System Based on WeChat Mini Programs
-– Undergraduate Thesis (2023)
+1. **A Laboratory Management System Based on WeChat Mini Programs**  
+   – Undergraduate Thesis (2023)
 
-Green Space Detection and Quantification in Remote Sensing Images Based on ViT
-– Submitted to a journal (2025)
+2. **Green Space Detection and Quantification in Remote Sensing Images Based on ViT**  
+   – Submitted to a journal (2025)
 
-Astronomical Object Recognition Based on Deep Learning
-– Currently being further developed (2025)
+3. **Astronomical Object Recognition Based on Deep Learning**  
+   – Currently being further developed (2025)
 
 At present, I am working on the detection and analysis of cosmic resources based on image data.
 
-You can find more detailed information in my [CV](static/uploads/resume.pdf).
+You can find more detailed information in my [CV](/uploads/resume.pdf).
+
