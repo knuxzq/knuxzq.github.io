@@ -49,17 +49,21 @@ highlight_name: true
 website: ""
 ---
 
-Hello! I'm Ziqiang Xu, born in 2002, a second-year Master’s student at Kyungpook National University, majoring in Robot and Smart System Engineering and AI Safety Convergence. My research interests include AI, deep learning, computer vision, image processing and so on. 
+Hello, my name is Ziqiang Xu. I was born in 2002 and am currently a second-year Master’s student in the Department of Robotics & Intelligent Systems Engineering and the AI Convergence Security program at Kyungpook National University. I am conducting my research under the supervision of Professor Bubryur Kim at the Artificial Intelligence Application Lab. During my undergraduate studies, I had the great honor of collaborating with and receiving guidance from Professors Xiwang Yang and Yingliang Zhao.
 
-Now, I have completed projects such as:
+My research interests include artificial intelligence, deep learning, computer vision, image processing, and related fields.
 
-1.A laboratory management system based on WeChat Mini Programs  
-[Undergraduate thesis] (2023)
+I have completed several projects, including:
 
-2.Green space detection and quantification in remote sensing images based on ViT  
-[submitted to a journal] (2025)
+A Laboratory Management System Based on WeChat Mini Programs
+– Undergraduate Thesis (2023)
 
-3.Astronomical object recognition based on deep learning  
-[being further expanded] (2025)
+Green Space Detection and Quantification in Remote Sensing Images Based on ViT
+– Submitted to a journal (2025)
 
-Currently, I’m working on Detection and analysis of cosmic resources based on image data.
+Astronomical Object Recognition Based on Deep Learning
+– Currently being further developed (2025)
+
+At present, I am working on the detection and analysis of cosmic resources based on image data.
+
+You can find more detailed information in my [CV](static/uploads/resume.pdf).
