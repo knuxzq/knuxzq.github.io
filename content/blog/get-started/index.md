@@ -3,7 +3,7 @@ title: "🎉 The research on MultiScale-GreenViT: A Vision Transformer Framework
 summary: "A more in-depth study is currently underway~"
 date: 2025-04-05
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Image credit: **Ziqiang Xu**"
 authors:
   - admin
 tags:
