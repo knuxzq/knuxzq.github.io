@@ -1,5 +1,5 @@
 ---
-title: 🎉 The research on "MultiScale-GreenViT: A Vision Transformer Framework for High-Precision Urban Green Space Segmentation and Quantification" has been successfully completed.
+title: The research on "MultiScale-GreenViT: A Vision Transformer Framework for High-Precision Urban Green Space Segmentation and Quantification" has been successfully completed.
 summary: A more in-depth study is currently underway~
 date: 2025-04-05
 
@@ -15,7 +15,7 @@ tags:
   - Academic
 ---
 
-Welcome 👋
+🎉 Welcome 👋
 
 {{< toc mobile_only=true is_open=true >}}
 
@@ -53,7 +53,7 @@ To address these challenges, this study introduces MultiScale-GreenViT, an impro
   RAM: 128 GB
   OS: Windows 11
 
-**Enviroment**
+**Environment**
   Python 3.9
   PyTorch 2.3.1
   CUDA 11.8
