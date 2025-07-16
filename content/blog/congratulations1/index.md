@@ -1,19 +1,17 @@
 ---
-title: "🎉 My paper abstract has been accepted for presentation at the C3 Symposium 2025!"
+title: "🎉 My collaborative paper has been accepted by ICROS 2024!"
 summary: "Congratulations~"
 date: 2025-04-24
 image:
-  caption: "Image credit: **C3 Symposium 2025**"
+  caption: "Image credit: **ICROS**"
 authors:
   - admin
 tags:
-  - News
+  - Academic
 ---
 
-🎉 Congratulations 👋
+🎉 Congratulations 
 
-Sadly, due to visa issues, I won’t be able to attend C3 Symposium 2025 on-site...😭<br>
-But still, I’m truly grateful for this opportunity — having my abstract accepted was already such a valuable and exciting experience!✨<br>
-I really hope I can join on-site in the future and connect with amazing researchers face to face. Until then, I’ll keep learning and growing~!🌱
+I would like to express my sincere gratitude to Professor Bubryur Kim for his invaluable research guidance, and to Dr. Yirong Mi for the opportunity to collaborate 👏
 
-![Letter of Invitation](./invitation.jpg)
+You are welcome to cite or access our 👉[paper](https://dbpia.co.kr/journal/articleDetail?nodeId=NODE11908789)👈
