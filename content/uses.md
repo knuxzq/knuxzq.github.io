@@ -5,8 +5,6 @@ hide_date: true
 reading_time: false
 ---
 
----
-
 ## Education 📖
 
 <hr>
@@ -33,7 +31,6 @@ reading_time: false
 <strong>Thesis Supervisors:</strong> <em>Yingliang Zhao</em><br>
 <em>Jinzhong, China</em>
 
----
 
 ## Experience 💼
 
@@ -55,12 +52,9 @@ reading_time: false
 *Artificial Intelligence Lab,*  
 *Jinzhong, China*  
 
----
 
 ## Language 💬
 
 - **Chinese**: Native (*氢氦锂铍硼下一句是...?*😄)  
 - **Korean**: Fluent (*마, 기술력 뿜뿜 중~*😎)
 - **English**: Basic (*I’m sorry, I kind of forgot my English for 4 years...But I’ll pick it up again soon!*💪)
-
----
