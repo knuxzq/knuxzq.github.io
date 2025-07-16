@@ -8,6 +8,9 @@ main:
   - name: Key words
     url: tags/
     weight: 20
+  - name: About
+    url: uses/
+    weight: 30
   - name: Daily
     url: uses/
     weight: 30
