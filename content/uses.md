@@ -55,6 +55,8 @@ reading_time: false
 
 ## Language 💬
 
+---
+
 - **Chinese**: Native (*氢氦锂铍硼下一句是...?*😄)  
 - **Korean**: Fluent (*마, 기술력 뿜뿜 중~*😎)
 - **English**: Basic (*I’m sorry, I kind of forgot my English for 4 years...But I’ll pick it up again soon!*💪)
