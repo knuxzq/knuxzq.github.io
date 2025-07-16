@@ -1,7 +1,7 @@
 ---
 title: "🎉 My collaborative paper has been accepted by ICROS 2024!"
 summary: "Congratulations~"
-date: 2025-04-24
+date: 2024-07-01
 image:
   caption: "Image credit: **ICROS**"
 authors:
