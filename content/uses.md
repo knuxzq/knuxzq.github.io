@@ -31,3 +31,25 @@ reading_time: false
 <strong>Thesis Supervisors:</strong> <em>Yingliang Zhao</em><br>
 <em>Jinzhong, China</em>
 
+## Experience
+
+---
+
+**Research Assistant**　　　　　　　　　　　　　　　　　　　　　*Mar. 2025 – Aug. 2025*  
+*Kyungpook National University, Daegu, South Korea*
+
+---
+
+**Research Intern**　　　　　　　　　　　　　　　　　　　　　　　*Nov. 2023 – Mar. 2024*  
+*Intelligent Construction Automation Center, Daegu, South Korea*  
+
+---
+
+**Undergraduate Intern**　　　　　　　　　　　　　　　　　　　　*Jun. 2021 – Jun. 2023*  
+*Artificial Intelligence Lab, Jinzhong, China*  
+
+## Language
+
+- Chinese: Native (*氢氦锂铍硼下一句是...?😄*)  
+- Korean: Fluent (*이 자슥이 누구고~? 바로 나얌!😎*)
+- English: Basic (*I’m sorry, I kind of forgot my English for 4 years...But I’ll pick it up again soon!💪*)
