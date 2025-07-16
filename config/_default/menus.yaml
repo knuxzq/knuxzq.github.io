@@ -12,5 +12,5 @@ main:
     url: uses/
     weight: 30
   - name: Daily
-    url: uses/
+    url: daily/
     weight: 30

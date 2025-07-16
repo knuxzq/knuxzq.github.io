@@ -1,5 +1,5 @@
 ---
-title: Ziqiang Xu | 쉬즈치앙
+title: About
 date: 2025-07-16
 hide_date: true
 reading_time: false
