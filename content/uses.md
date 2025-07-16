@@ -36,17 +36,20 @@ reading_time: false
 ---
 
 **Research Assistant**　　　　　　　　　　　　*Mar. 2025 – Aug. 2025*  
-*Kyungpook National University, Daegu, South Korea*
+*Kyungpook National University*,  
+*Daegu, South Korea*
 
 ---
 
 **Research Intern**　　　　　　　　　　　　　　*Nov. 2023 – Mar. 2024*  
-*Intelligent Construction Automation Center, Daegu, South Korea*  
+*Intelligent Construction Automation Center,*  
+*Daegu, South Korea*  
 
 ---
 
 **Undergraduate Intern**　　　　　　　　　　　　*Jun. 2021 – Jun. 2023*  
-*Artificial Intelligence Lab, Jinzhong, China*  
+*Artificial Intelligence Lab,*  
+*Jinzhong, China*  
 
 ## Language
 
