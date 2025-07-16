@@ -1,5 +1,5 @@
 ---
-title: Education
+title: Ziqiang Xu | 쉬즈치앙
 date: 2025-07-16
 hide_date: true
 reading_time: false
@@ -9,7 +9,7 @@ reading_time: false
 
 ---
 
-**Kyungpook National University**　　　　　　　　　　　　　　　*Mar. 2024 – Present*  
+**Kyungpook National University**　　　　　*Mar. 2024 – Present*  
 *Graduate School, M.S.*  
 *Robot and Smart System Engineering & AI Safety Convergence*  
 **GPA:** 4.02 / 4.3  
@@ -18,7 +18,7 @@ reading_time: false
 
 ---
 
-**North University of China**　　　　　　　　　　　　　　　　　　*Sep. 2019 – Jun. 2023*  
+**North University of China**　　　　　　　*Sep. 2019 – Jun. 2023*  
 *College of Information and Business, B.S.*  
 *Computer Science and Engineering*  
 **GPA:** 3.35 / 4.0  
