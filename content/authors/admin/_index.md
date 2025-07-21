@@ -58,9 +58,9 @@ I have completed several projects, including:
    – Undergraduate Thesis (2023)
 
 2. MultiScale-GreenViT: A Vision Transformer Framework for High-Precision Urban Green Space Segmentation and Quantification  
-   – Submitted to a journal (2025)
+   – Submitted to a journal (2025) 
 
-3. Astronomical Object Recognition Based on Deep Learning  
+3. Astronomical Object Recognition Based on Deep Learning 👉[PlanetaryImageClassifier](https://github.com/knuxzq/PlanetaryImageClassifier)
    – Currently being further developed (2025)
 
 At present, I am working on the detection and analysis of cosmic resources based on image data.
