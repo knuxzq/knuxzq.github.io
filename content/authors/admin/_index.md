@@ -60,7 +60,7 @@ I have completed several projects, including:
 2. MultiScale-GreenViT: A Vision Transformer Framework for High-Precision Urban Green Space Segmentation and Quantification  
    – Submitted to a journal (2025) 
 
-3. Astronomical Object Recognition Based on Deep Learning
+3. Astronomical Object Recognition Based on Deep Learning  
    – Currently being further developed (2025)  
    👉[PlanetaryImageClassifier](https://github.com/knuxzq/PlanetaryImageClassifier)
 
