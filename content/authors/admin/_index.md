@@ -61,7 +61,8 @@ I have completed several projects, including:
    – Submitted to a journal (2025) 
 
 3. Astronomical Object Recognition Based on Deep Learning
-   – Currently being further developed (2025) 👉[PlanetaryImageClassifier](https://github.com/knuxzq/PlanetaryImageClassifier)
+   – Currently being further developed (2025)  
+   👉[PlanetaryImageClassifier](https://github.com/knuxzq/PlanetaryImageClassifier)
 
 At present, I am working on the detection and analysis of cosmic resources based on image data.
 
