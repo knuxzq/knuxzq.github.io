@@ -57,6 +57,6 @@ reading_time: false
 
 ---
 
-- **Chinese**: Native (*氢氦锂铍硼下一句是...?*😄)  
-- **Korean**: Fluent (*듣기랑 아직 친하지 않지만 노력중입니다~*😆)
-- **English**: Basic (*I’m sorry, I kind of forgot my English for 4 years...But I’ll pick it up again soon!*💪)
+- **Chinese**: Native
+- **Korean**: Fluent
+- **English**: Basic
