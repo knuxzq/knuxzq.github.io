@@ -48,7 +48,7 @@ highlight_name: true
 # Author's website URL
 website: ""
 ---
-Hello, my name is Ziqiang Xu. I am currently a second-year Master’s student in the Department of Robot and Smart System Engineering & AI Convergence Security at Kyungpook National University. I am conducting my research under the supervision of Professor [Bubryur Kim](https://home.knu.ac.kr/HOME/aerospace/sub.htm?nav_code=aer1694405502) at the Artificial Intelligence Application Lab. During my undergraduate studies, I had the great honor of collaborating with and receiving guidance from Professor [Yingliang Zhao](https://5y.nuc.edu.cn/info/1695/12878.htm).
+Hello, my name is Ziqiang Xu. I am currently a second-year Master’s student in the Department of Robot and Smart System Engineering & AI Convergence Security at Kyungpook National University. I am conducting my research under the supervision of Professor [Bubryur Kim](https://sites.google.com/view/brkimknu/principal-investigator?authuser=0) at the [Physical Artificial Intelligence Applications (PAIA)](https://sites.google.com/view/brkimknu/home?authuser=0) Lab. During my undergraduate studies, I had the great honor of collaborating with and receiving guidance from Professor [Yingliang Zhao](https://5y.nuc.edu.cn/info/1695/12878.htm).
 
 My research interests include artificial intelligence, deep learning, computer vision, image processing, and related fields.
 
