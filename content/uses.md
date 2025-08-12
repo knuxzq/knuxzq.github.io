@@ -36,7 +36,7 @@ reading_time: false
 
 ---
 
-**BK21 Research Assistant**　　　　　　　　　　　　*Mar. 2025 – Aug. 2025*  
+**BK21 Research Assistant**　　　　　　　　　 *Mar. 2025 – Aug. 2025*  
 *Kyungpook National University*,  
 *Daegu, South Korea*
 
