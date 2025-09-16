@@ -17,8 +17,8 @@ reading_time: false
 <em>Robot and Smart System Engineering & AI Safety Convergence</em><br>
 <strong>GPA:</strong> 4.02 / 4.3<br>
 <strong>Supervisors:</strong> <em>Bubryur Kim</em><br>
-<em>Daegu, South Korea</em>
-👉 <a href="/uploads/transcript.jpg" target="_blank">Transcript</a>
+<em>Daegu, South Korea</em><br>
+👉<a href="/uploads/transcript.jpg" target="_blank">Transcript</a>
 
 <hr>
 
