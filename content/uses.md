@@ -15,10 +15,12 @@ reading_time: false
 </div>
 <em>Graduate School, M.S.</em><br>
 <em>Robot and Smart System Engineering & AI Safety Convergence</em><br>
-<strong>GPA:</strong> 4.02 / 4.3<br>
+<strong>GPA:</strong> 4.02 / 4.3<br>  
+<div>
+  👉 <a href="/uploads/transcript.jpg" target="_blank">Transcript</a>
+</div>
 <strong>Supervisors:</strong> <em>Bubryur Kim</em><br>
-<em>Daegu, South Korea</em><br>
-👉<a href="/uploads/transcript.jpg" target="_blank">Transcript</a>
+<em>Daegu, South Korea</em>
 
 <hr>
 
