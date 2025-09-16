@@ -18,7 +18,7 @@ reading_time: false
 <strong>GPA:</strong> 4.02 / 4.3<br>
 <strong>Supervisors:</strong> <em>Bubryur Kim</em><br>
 <em>Daegu, South Korea</em>
-
+👉[My Transcript](/uploads/transcript.jpg)👈
 <hr>
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
@@ -33,6 +33,12 @@ reading_time: false
 
 
 ## Experience 💼
+
+---
+
+**Research Assistant Grade 3**　　　　　　　　　 *Sep. 2025 – Feb. 2026*  
+*Kyungpook National University*,  
+*Daegu, South Korea*
 
 ---
 
