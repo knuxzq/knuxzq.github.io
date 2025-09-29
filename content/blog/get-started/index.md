@@ -52,6 +52,6 @@ Urban green-space monitoring often suffers from an accuracy–efficiency trade-o
   CUDA 11.8  
   OpenCV 4.10.0  
 
-⚠️ **The project has been uploaded to GitHub, You can access the source code through the following link: ** 🦄✨
+⚠️ The project has been uploaded to GitHub, You can access the source code through this 👉[GreenViT](https://github.com/knuxzq/GreenViT) 🦄✨
    
-   👉[GreenViT](https://github.com/knuxzq/GreenViT)  
+    
