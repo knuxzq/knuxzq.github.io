@@ -58,7 +58,9 @@ I have completed several projects, including:
    – Undergraduate Thesis (2023)
 
 2. GreenViT: A Vision Transformer with Single-Path Progressive Upsampling for Urban Green-Space Segmentation and Auditable Area Estimation  
-   – Submitted to a journal (2025) 
+   – Submitted to a journal (2025)  
+   The project has been uploaded to GitHub:  
+   👉[GreenViT](https://github.com/knuxzq/GreenViT)  
 
 3. Astronomical Object Recognition Based on Deep Learning  
    – Currently being further developed (2025)  
