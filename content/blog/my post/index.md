@@ -1,6 +1,6 @@
 ---
 title: Ziqiang Xu's News
-date: 2025-07-15
+date: 2025-09-29
 ---
 
 Welcome, It will be updated irregularly~😊<br>

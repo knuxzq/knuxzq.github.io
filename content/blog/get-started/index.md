@@ -34,7 +34,8 @@ Urban green-space monitoring often suffers from an accuracy–efficiency trade-o
 
 4️⃣ **Data Sampling & Augmentation**
 - TSliding-window sampling with 224 window and 112 stride for systematic coverage;
-- Synchronized flips and ±5° rotations for images/labels, plus color jitter (0.1/0.1/0.1/0.05).
+- Synchronized flips and ±5° rotations for images/labels, plus color jitter (0.1/0.1/0.1/0.05).  
+
 5️⃣ **Unified Training Protocol**
 - AdamW + CosineAnnealingLR, 5-fold, unified early-stopping (PATIENCE=20) and sliding-window inference for fair comparisons with Swin-T / SegFormer-B0 / GreenViT+FPN.
 
@@ -51,7 +52,4 @@ Urban green-space monitoring often suffers from an accuracy–efficiency trade-o
   CUDA 11.8  
   OpenCV 4.10.0  
 ⚠️ **When the paper is officially published, I will share more details and provide the link to the full article** 🦄✨
-
-![GreenViT graphical abstract](./featured.png)
-
 
