@@ -57,7 +57,7 @@ I have completed several projects, including:
 1. A Laboratory Management System Based on WeChat Mini Programs  
    – Undergraduate Thesis (2023)
 
-2. MultiScale-GreenViT: A Vision Transformer Framework for High-Precision Urban Green Space Segmentation and Quantification  
+2. GreenViT: A Vision Transformer with Single-Path Progressive Upsampling for Urban Green-Space Segmentation and Auditable Area Estimation
    – Submitted to a journal (2025) 
 
 3. Astronomical Object Recognition Based on Deep Learning  

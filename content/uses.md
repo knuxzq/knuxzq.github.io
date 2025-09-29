@@ -67,5 +67,5 @@ reading_time: false
 ---
 
 - **Chinese**: Native
-- **Korean**: Fluent (TOPIK 214/300 5급)
+- **Korean**: Fluent (TOPIK 5급)
 - **English**: Basic
