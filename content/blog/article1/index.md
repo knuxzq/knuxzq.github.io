@@ -1,7 +1,7 @@
 ---
 title: "🎉 The research on Planetary Image Classification has been successfully completed"
 summary: "A more in-depth study is currently underway~"
-date: 2025-09-29
+date: 2025-07-29
 image:
   caption: "Image credit: **Ziqiang Xu**"
 authors:
