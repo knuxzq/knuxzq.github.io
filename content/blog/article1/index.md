@@ -15,13 +15,13 @@ tags:
 
 {{< toc mobile_only=true is_open=true >}}
 
-# Planetary Image Classification with Transfer Learning 🪐
+## Planetary Image Classification with Transfer Learning 🪐
 
 Built an end-to-end pipeline with PyTorch + torchvision backbones (EfficientNet-B3 / ResNet50): data prep & augmentation → two-stage transfer learning → evaluation & interpretability (lightweight Grad-CAM) → batch/single inference with visual & CSV outputs. We have achieved 100% accurate recognition of Earth, Jupiter, Mars, Moon, Neptune, Saturn, and Uranus. 
 
-![Result1](./picone.jpg)  
+![Result1](./picone.png)  
 
-![Result2](./pictwo.jpg)
+![Result2](./pictwo.png)
 
 ## Research Background 📌 
 
@@ -43,12 +43,26 @@ Automatically classify planetary images into 7 classes (default: earth, jupiter,
 
 ## Environment & Dependencies 💻
 
-```pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121```
-```pip install scikit-learn numpy pandas matplotlib seaborn pillow tqdm opencv-python tensorboard```
+`pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121`  
+
+`pip install scikit-learn numpy pandas matplotlib seaborn pillow tqdm opencv-python tensorboard`
+
 **requirements**
 
+torch  
+torchvision  
+torchaudio  
+scikit-learn  
+numpy  
+pandas  
+matplotlib  
+seaborn  
+pillow  
+tqdm  
+opencv-python  
+tensorboard  
 
 
-⚠️ The project has been uploaded to GitHub, You can access the source code through this 👉[PlanetaryImageClassifier](https://github.com/knuxzq/PlanetaryImageClassifier) 🦄✨
+⚠️ The project has been uploaded to GitHub, You can access the source code and more details through this 👉[PlanetaryImageClassifier](https://github.com/knuxzq/PlanetaryImageClassifier) 🦄✨
    
     
