@@ -1,5 +1,5 @@
 ---
-title: "🎉 The research on GreenViT: A Vision Transformer with Single-Path Progressive Upsampling for Urban Green-Space Segmentation and Auditable Area Estimation has been successfully completed"
+title: "🎉 The research on GreenViT has been successfully completed"
 summary: "A more in-depth study is currently underway~"
 date: 2025-09-11
 image:
