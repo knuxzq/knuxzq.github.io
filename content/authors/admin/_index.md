@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master's student
+role: Intern
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Kyungpook National University
-    url: https://robot.knu.ac.kr/
+  - name: UNIST (Ulsan National Institute of Science and Technology)
+    url: https://www.unist.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: If there's anything you're curious about or want to ask, don't hesitate to reach out! 😊
@@ -31,7 +31,7 @@ bio: If there's anything you're curious about or want to ask, don't hesitate to 
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'xzq@knu.ac.kr'
+    url: 'seojagang2002@gmail.com'
     label: E-mail Me
 
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
@@ -48,9 +48,7 @@ highlight_name: true
 # Author's website URL
 website: ""
 ---
-Hello, my name is Ziqiang Xu. I am currently a second-year Master’s student in the Department of Robot and Smart System Engineering & AI Convergence Security at Kyungpook National University. I am conducting my research under the supervision of Professor [Bubryur Kim](https://sites.google.com/view/brkimknu/principal-investigator?authuser=0) at the [Physical Artificial Intelligence Applications (PAIA)](https://sites.google.com/view/brkimknu/home?authuser=0) Lab. During my undergraduate studies, I had the great honor of collaborating with and receiving guidance from Professor [Yingliang Zhao](https://5y.nuc.edu.cn/info/1695/12878.htm).
-
-My research interests include artificial intelligence, deep learning, computer vision, image processing, and related fields.
+Hello! My name is Ziqiang Xu. I am currently a Research Intern at [UNIST(Ulsan National Institute of Science and Technology)](https://www.unist.ac.kr/), and I am also a second-year Master’s student in the Department of Robot and Smart System Engineering & AI Convergence Security at [Kyungpook National University](https://en.knu.ac.kr/main/main.htm). My research interests include artificial intelligence, deep learning, computer vision, image processing, and related fields. You can find more detailed information in my [CV](/uploads/resume.pdf)🥰.
 
 I have completed several projects, including:
 
@@ -66,7 +64,4 @@ I have completed several projects, including:
    – Currently being further developed (2025)  
    The project has been uploaded to GitHub:  
    👉[PlanetaryImageClassifier](https://github.com/knuxzq/PlanetaryImageClassifier)  
-   
-   
-You can find more detailed information in my [CV](/uploads/resume.pdf).
 
