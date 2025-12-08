@@ -39,25 +39,25 @@ reading_time: false
 
 ---
 
-**Research Intern**　　　　　　　　           *Dec. 2025 – now*  
+**Research Intern**　　　　　　　　                  *Dec. 2025 – now*  
 *Ulsan National Institute of Science and Technology*,  
 *Ulsan, South Korea*
 
 ---
 
-**Research Assistant Grade 3**　　　　　　　　*Sep. 2025 – Feb. 2026*  
+**Research Assistant Grade 3**　　　　　　　　 *Sep. 2025 – Feb. 2026*  
 *Kyungpook National University*,  
 *Daegu, South Korea*
 
 ---
 
-**BK21 Research Assistant**　　　　　　　　　 *Mar. 2025 – Aug. 2025*  
+**BK21 Research Assistant**　　　　　　　　　  *Mar. 2025 – Aug. 2025*  
 *Kyungpook National University*,  
 *Daegu, South Korea*
 
 ---
 
-**Research Intern**　　　　　　　　　　　　　　*Nov. 2023 – Mar. 2024*  
+**Research Intern**　　　　　　　　　　　　　　 *Nov. 2023 – Mar. 2024*  
 *Intelligent Construction Automation Center,*  
 *Daegu, South Korea*  
 
