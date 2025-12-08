@@ -39,7 +39,7 @@ reading_time: false
 
 ---
 
-**Research Intern**　　　　　　　　                  *Dec. 2025 – now*  
+**Research Intern**　　　　　　　　               *Dec. 2025 – Present*  
 *Ulsan National Institute of Science and Technology*,  
 *Ulsan, South Korea*
 
