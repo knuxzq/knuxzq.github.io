@@ -11,7 +11,7 @@ reading_time: false
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
   <div><strong>Kyungpook National University</strong></div>
-  <div><em>Mar. 2024 – Present</em></div>
+  <div><em>Mar. 2024 – Feb. 2026</em></div>
 </div>
 <em>Graduate School, M.S.</em><br>
 <em>Robot and Smart System Engineering & AI Safety Convergence</em><br>
@@ -37,29 +37,51 @@ reading_time: false
 
 ## Experience 💼
 
----
+<hr>
 
-**Research Assistant Grade 3**　　　　　　　　 *Sep. 2025 – Feb. 2026*  
-*Kyungpook National University*,  
-*Daegu, South Korea*
+<div style="display: flex; justify-content: space-between; align-items: baseline;">
+  <div><strong>Research Intern</strong></div>
+  <div><em>Dec. 2025 – Present</em></div>
+</div>
+<em>Ulsan National Institute of Science and Technology (UNIST)</em><br>
+<em>Ulsan, South Korea</em>
 
----
+<hr>
 
-**BK21 Research Assistant**　　　　　　　　　  *Mar. 2025 – Aug. 2025*  
-*Kyungpook National University*,  
-*Daegu, South Korea*
+<div style="display: flex; justify-content: space-between; align-items: baseline;">
+  <div><strong>Research Assistant Grade 3</strong></div>
+  <div><em>Sep. 2025 – Feb. 2026</em></div>
+</div>
+<em>Kyungpook National University</em><br>
+<em>Daegu, South Korea</em>
 
----
+<hr>
 
-**Research Intern**　　　　　　　　　　　　　　 *Nov. 2023 – Mar. 2024*  
-*Intelligent Construction Automation Center,*  
-*Daegu, South Korea*  
+<div style="display: flex; justify-content: space-between; align-items: baseline;">
+  <div><strong>BK21 Research Assistant</strong></div>
+  <div><em>Mar. 2025 – Aug. 2025</em></div>
+</div>
+<em>Kyungpook National University</em><br>
+<em>Daegu, South Korea</em>
 
----
+<hr>
 
-**Undergraduate Intern**　　　　　　　　　　　　*Jun. 2021 – Jun. 2023*  
-*Artificial Intelligence Lab,*  
-*Jinzhong, China*  
+<div style="display: flex; justify-content: space-between; align-items: baseline;">
+  <div><strong>Research Intern</strong></div>
+  <div><em>Nov. 2023 – Mar. 2024</em></div>
+</div>
+<em>Intelligent Construction Automation Center</em><br>
+<em>Daegu, South Korea</em>
+
+<hr>
+
+<div style="display: flex; justify-content: space-between; align-items: baseline;">
+  <div><strong>Undergraduate Intern</strong></div>
+  <div><em>Jun. 2021 – Jun. 2023</em></div>
+</div>
+<em>Artificial Intelligence Lab</em><br>
+<em>Jinzhong, China</em>
+
 
 
 ## Language 💬
