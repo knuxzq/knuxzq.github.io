@@ -11,7 +11,7 @@ reading_time: false
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
   <div><strong>Kyungpook National University</strong></div>
-  <div><em>Mar. 2024 – Feb. 2026</em></div>
+  <div><em>Mar. 2024 – Mar. 2026</em></div>
 </div>
 <em>Graduate School, M.S.</em><br>
 <em>Robot and Smart System Engineering & AI Safety Convergence</em><br>
