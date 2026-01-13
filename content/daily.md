@@ -1,6 +1,6 @@
 ---
 title: Daily
-date: 2025-07-16
+date: 2026-01-12
 hide_date: true
 reading_time: false
 ---
