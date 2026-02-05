@@ -14,7 +14,7 @@ reading_time: false
   <div><em>Mar. 2024 – Mar. 2026</em></div>
 </div>
 <em>Graduate School, M.S.</em><br>
-<em>Robot and Smart System Engineering & AI Safety Convergence</em><br>
+<em>Robot and Smart System Engineering & AI-Converged Safety</em><br>
 <strong>GPA:</strong> 4.02 / 4.3<br>  
 <div>
   👉 <a href="/uploads/transcript.jpg" target="_blank">Transcript</a>
