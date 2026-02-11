@@ -48,7 +48,7 @@ highlight_name: true
 # Author's website URL
 website: ""
 ---
-Hello! My name is Ziqiang Xu. I am currently a Research Intern at [UNIST(Ulsan National Institute of Science and Technology)](https://www.unist.ac.kr/), and I obtained a Master’s degree in Robot and Smart System Engineering from [Kyungpook National University](https://en.knu.ac.kr/main/main.htm). My research interests include artificial intelligence, deep learning, computer vision, remote sensing, and related fields. You can find more detailed information in my [CV](/uploads/resume.pdf)🥰.
+Hello! My name is Ziqiang Xu. I am currently a Research Intern at [UNIST(Ulsan National Institute of Science and Technology)](https://www.unist.ac.kr/), and I obtained a Master’s degree in Robot and Smart System Engineering（Multiple Major: AI-Converged Safety) from [Kyungpook National University](https://en.knu.ac.kr/main/main.htm). My research interests include artificial intelligence, deep learning, computer vision, remote sensing, and related fields. You can find more detailed information in my [CV](/uploads/resume.pdf)🥰.
 
 I have completed several projects, including:
 
@@ -56,12 +56,10 @@ I have completed several projects, including:
    – Undergraduate Thesis (2023)
 
 2. GreenViT: A Vision Transformer with Single-Path Progressive Upsampling for Urban Green-Space Segmentation and Auditable Area Estimation  
-   – Submitted to a journal (2026)  
    The project has been uploaded to GitHub:  
    👉[GreenViT](https://github.com/knuxzq/GreenViT)  
 
 3. Astronomical Object Recognition Based on Deep Learning  
-   – Currently being further developed (2025)  
    The project has been uploaded to GitHub:  
    👉[PlanetaryImageClassifier](https://github.com/knuxzq/PlanetaryImageClassifier)  
 
