@@ -55,11 +55,11 @@ I have completed several projects, including:
 1. A Laboratory Management System Based on WeChat Mini Programs  
    – Undergraduate Thesis (2023)
 
-2. GreenViT: A Vision Transformer with Single-Path Progressive Upsampling for Urban Green-Space Segmentation and Auditable Area Estimation  
-   The project has been uploaded to GitHub:  
-   👉[GreenViT](https://github.com/knuxzq/GreenViT)  
+2. 👉[GreenViT](https://github.com/knuxzq/GreenViT)  
+   The project has been uploaded to GitHub.
+   
 
-3. Astronomical Object Recognition Based on Deep Learning  
-   The project has been uploaded to GitHub:  
-   👉[PlanetaryImageClassifier](https://github.com/knuxzq/PlanetaryImageClassifier)  
+3. 👉[PlanetaryImageClassifier](https://github.com/knuxzq/PlanetaryImageClassifier)  
+   The project has been uploaded to GitHub.  
+    
 
