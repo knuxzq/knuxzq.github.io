@@ -32,13 +32,22 @@ reading_time: false
 <em>Jinzhong, China</em>
 
 
-## Experience 💼
+## Academic Experience 💼
+
+<hr>
+
+<div style="display: flex; justify-content: space-between; align-items: baseline;">
+  <div><strong>Post-Master Researcher</strong></div>
+  <div><em>Mar. 2026 – Present</em></div>
+</div>
+<em>Ulsan National Institute of Science and Technology (UNIST)</em><br>
+<em>Ulsan, South Korea</em>
 
 <hr>
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
   <div><strong>Research Intern</strong></div>
-  <div><em>Dec. 2025 – Present</em></div>
+  <div><em>Dec. 2025 – Feb. 2026</em></div>
 </div>
 <em>Ulsan National Institute of Science and Technology (UNIST)</em><br>
 <em>Ulsan, South Korea</em>
