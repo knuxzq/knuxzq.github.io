@@ -1,5 +1,5 @@
 ---
-title: "I started my research internship at UNIST in Dec."
+title: "🎉 I started my research internship at UNIST in Dec."
 summary: "Latest news"
 date: 2025-12-05
 #image:
