@@ -1,48 +1,238 @@
-<footer class="site-footer">
-  <div style="width: 100%; text-align: center; margin-top: 2rem;">
-    <p style="margin-bottom: 1rem; font-size: 1rem; color: #e5e7eb;">
-      © {{ now.Format "2006" }} ZiQiang Xu
-    </p>
-  </div>
+<footer class="site-footer custom-footer">
+  <div class="custom-footer-inner">
+    <div class="footer-copy">
+      <span>© {{ now.Format "2006" }} ZiQiang Xu</span>
+    </div>
 
-  <div
-    style="
-      width: 100%;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      margin: 0 auto 2rem auto;
-      padding: 0 1rem;
-      box-sizing: border-box;
-    "
-  >
-    <div
-      style="
-        display: inline-flex;
-        justify-content: center;
-        align-items: center;
-        padding: 0.75rem 1rem;
-        border: 1px solid rgba(255,255,255,0.08);
-        border-radius: 14px;
-        background: rgba(255,255,255,0.02);
-        box-shadow: 0 8px 24px rgba(0,0,0,0.22);
-        backdrop-filter: blur(6px);
-      "
-    >
-      <a href="https://info.flagcounter.com/HKM4" target="_blank" rel="noopener noreferrer">
-        <img
-          src="https://s01.flagcounter.com/count2/HKM4/bg_0D1117/txt_C9D1D9/border_30363D/columns_6/maxflags_24/viewers_3/labels_1/pageviews_1/flags_0/percent_0/"
-          alt="Flag Counter"
-          border="0"
-          loading="lazy"
-          style="
-            display: block;
-            max-width: 100%;
-            height: auto;
-            border-radius: 10px;
-          "
-        >
-      </a>
+    <div class="visitor-card-wrap">
+      <div class="visitor-card-glow"></div>
+
+      <div class="visitor-card">
+        <div class="visitor-card-header">
+          <div class="visitor-badge">
+            <span class="visitor-badge-dot"></span>
+            <span>Global Visitors</span>
+          </div>
+          <div class="visitor-subtitle">Live visitor footprint</div>
+        </div>
+
+        <div class="visitor-card-body">
+          <a
+            href="https://info.flagcounter.com/HKM4"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="flagcounter-link"
+          >
+            <img
+              src="https://s01.flagcounter.com/count2/HKM4/bg_0D1117/txt_C9D1D9/border_30363D/columns_6/maxflags_24/viewers_3/labels_1/pageviews_1/flags_0/percent_0/"
+              alt="Flag Counter"
+              border="0"
+              loading="lazy"
+              class="flagcounter-img"
+            >
+          </a>
+        </div>
+      </div>
     </div>
   </div>
 </footer>
+
+<style>
+  .custom-footer {
+    width: 100%;
+    margin-top: 3rem;
+    padding: 2rem 1rem 3rem;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .custom-footer::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(circle at 20% 30%, rgba(59,130,246,0.10), transparent 28%),
+      radial-gradient(circle at 80% 20%, rgba(168,85,247,0.10), transparent 30%),
+      radial-gradient(circle at 50% 100%, rgba(34,197,94,0.08), transparent 35%);
+    pointer-events: none;
+  }
+
+  .custom-footer-inner {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    max-width: 980px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.2rem;
+  }
+
+  .footer-copy {
+    text-align: center;
+    color: rgba(255,255,255,0.86);
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+  }
+
+  .visitor-card-wrap {
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    animation: footer-float 5s ease-in-out infinite;
+  }
+
+  .visitor-card-glow {
+    position: absolute;
+    width: min(720px, 78vw);
+    height: 120px;
+    background: radial-gradient(circle, rgba(59,130,246,0.22) 0%, rgba(168,85,247,0.12) 35%, rgba(0,0,0,0) 75%);
+    filter: blur(28px);
+    opacity: 0.9;
+    top: 12px;
+    left: 50%;
+    transform: translateX(-50%);
+    pointer-events: none;
+  }
+
+  .visitor-card {
+    width: min(760px, 100%);
+    border-radius: 22px;
+    padding: 1.1rem 1.1rem 1rem;
+    position: relative;
+    background:
+      linear-gradient(135deg, rgba(255,255,255,0.06), rgba(255,255,255,0.02)),
+      linear-gradient(180deg, rgba(17,24,39,0.86), rgba(10,14,24,0.94));
+    border: 1px solid rgba(255,255,255,0.08);
+    box-shadow:
+      0 10px 30px rgba(0,0,0,0.28),
+      inset 0 1px 0 rgba(255,255,255,0.06);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    overflow: hidden;
+  }
+
+  .visitor-card::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      120deg,
+      rgba(255,255,255,0.00) 20%,
+      rgba(255,255,255,0.06) 45%,
+      rgba(255,255,255,0.00) 70%
+    );
+    transform: translateX(-120%);
+    animation: shimmer 6s linear infinite;
+    pointer-events: none;
+  }
+
+  .visitor-card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 0.9rem;
+    flex-wrap: wrap;
+  }
+
+  .visitor-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.55rem;
+    padding: 0.45rem 0.8rem;
+    border-radius: 999px;
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.08);
+    color: #e5edf8;
+    font-size: 0.92rem;
+    font-weight: 600;
+  }
+
+  .visitor-badge-dot {
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #22c55e, #3b82f6);
+    box-shadow: 0 0 10px rgba(59,130,246,0.6);
+    animation: pulse-dot 1.8s ease-in-out infinite;
+    flex: 0 0 auto;
+  }
+
+  .visitor-subtitle {
+    color: rgba(255,255,255,0.58);
+    font-size: 0.92rem;
+  }
+
+  .visitor-card-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+
+  .flagcounter-link {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    transition: transform 0.25s ease, filter 0.25s ease;
+  }
+
+  .flagcounter-link:hover {
+    transform: translateY(-2px) scale(1.01);
+    filter: brightness(1.06);
+  }
+
+  .flagcounter-img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border-radius: 14px;
+  }
+
+  @keyframes footer-float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-5px); }
+  }
+
+  @keyframes pulse-dot {
+    0%, 100% {
+      transform: scale(1);
+      opacity: 0.95;
+    }
+    50% {
+      transform: scale(1.28);
+      opacity: 1;
+    }
+  }
+
+  @keyframes shimmer {
+    0% { transform: translateX(-120%); }
+    100% { transform: translateX(120%); }
+  }
+
+  @media (max-width: 768px) {
+    .custom-footer {
+      padding: 2rem 0.8rem 2.6rem;
+    }
+
+    .visitor-card {
+      border-radius: 18px;
+      padding: 0.95rem 0.9rem 0.9rem;
+    }
+
+    .visitor-card-header {
+      justify-content: center;
+      text-align: center;
+    }
+
+    .visitor-subtitle {
+      width: 100%;
+      text-align: center;
+    }
+  }
+</style>
