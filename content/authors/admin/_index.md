@@ -31,7 +31,7 @@ bio: If there's anything you're curious about or want to ask, don't hesitate to 
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'seojagang2002@gmail.com'
+    url: 'xuziqiang@unist.ac.kr'
     label: E-mail Me
 
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
@@ -48,7 +48,7 @@ highlight_name: true
 # Author's website URL
 website: ""
 ---
-Hello! My name is Ziqiang Xu. I am currently a Post-Master Researcher at Department of Civil, Urban, Earth and Environmental Engineering, [UNIST(Ulsan National Institute of Science and Technology)](https://www.unist.ac.kr/), and I obtained a Master’s degree in Robot and Smart System Engineering from [Kyungpook National University](https://en.knu.ac.kr/main/main.htm). My research interests include artificial intelligence, deep learning, computer vision, remote sensing, and related fields. You can find more detailed information in my [CV](/uploads/resume.pdf)🥰.
+Hello! My name is Ziqiang Xu. I am currently a Post-Master Researcher at [IRIS Lab](https://irisunist.wixsite.com/irislab), Department of Civil, Urban, Earth and Environmental Engineering, [UNIST(Ulsan National Institute of Science and Technology)](https://www.unist.ac.kr/), working under the supervision of Prof. Jungho Im. I obtained a Master’s degree in Robot and Smart System Engineering from [Kyungpook National University](https://en.knu.ac.kr/main/main.htm). My research interests include artificial intelligence, deep learning, computer vision, remote sensing, and related fields. You can find more detailed information in my [CV](/uploads/resume.pdf)🥰.
 
 I have completed several projects, including:
 
@@ -56,10 +56,9 @@ I have completed several projects, including:
    – Undergraduate Thesis (2023)
 
 2. 👉[GreenViT](https://github.com/knuxzq/GreenViT)  
-   The project has been uploaded to GitHub.
-   
+   The project has been uploaded to GitHub (2025)
 
 3. 👉[PlanetaryImageClassifier](https://github.com/knuxzq/PlanetaryImageClassifier)  
-   The project has been uploaded to GitHub.  
+   The project has been uploaded to GitHub (2025)
     
 
