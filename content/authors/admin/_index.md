@@ -30,7 +30,7 @@ bio: If there's anything you're curious about or want to ask, don't hesitate to 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: envelope
     url: 'xuziqiang@unist.ac.kr'
     label: E-mail Me
 
@@ -38,7 +38,7 @@ profiles:
   #- icon: academicons/cv
     #url: uploads/resume.pdf
     #label: Download my resume
-  - icon: github
+  - icon: brands/github
     url: https://github.com/knuxzq?tab=repositories
     label: github
 
