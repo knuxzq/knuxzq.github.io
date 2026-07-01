@@ -12,4 +12,6 @@ tags:
 
 🎉 Congratulations 
 
-Our lastest study has been accepted by ICROS 2024! You are welcome to cite or access our 👉[paper](https://dbpia.co.kr/journal/articleDetail?nodeId=NODE11908789)👈
+Our lastest study has been accepted by ICROS 2024!  
+
+You are welcome to cite or access our 👉[paper](https://dbpia.co.kr/journal/articleDetail?nodeId=NODE11908789)👈

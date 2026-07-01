@@ -12,4 +12,6 @@ tags:
 
 🎉 Congratulations 
 
-Our review article ‘Satellite-Based Wildfire Monitoring Across the Fire Lifecycle Using Artificial Intelligence: Trends, Challenges, and Future Directions’ has been officially published in the Korean Journal of Remote Sensing (KJRS). You are welcome to cite or access our 👉[paper](https://www.kjrs.org/journal/view.html?doi=10.7780/kjrs.2026.42.3.3#n)👈
+Our review article ‘Satellite-Based Wildfire Monitoring Across the Fire Lifecycle Using Artificial Intelligence: Trends, Challenges, and Future Directions’ has been officially published in the Korean Journal of Remote Sensing (KJRS).  
+
+You are welcome to cite or access our 👉[paper](https://www.kjrs.org/journal/view.html?doi=10.7780/kjrs.2026.42.3.3#n)👈
