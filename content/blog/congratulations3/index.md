@@ -1,7 +1,7 @@
 ---
 title: "🎉 Our review article has been officially published in the Korean Journal of Remote Sensing (KJRS)"
 summary: "Congratulations~"
-date: 2026-07-01
+date: 2026-06-30
 image:
   caption: "Image credit: **IRIS**"
 authors:
