@@ -21,7 +21,7 @@ role: Post-Master Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: UNIST (Ulsan National Institute of Science and Technology)
+  - name: Ulsan National Institute of Science and Technology (UNIST)
     url: https://www.unist.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
@@ -48,7 +48,7 @@ highlight_name: true
 # Author's website URL
 website: ""
 ---
-Hello! My name is Ziqiang Xu. I am currently a Post-Master Researcher at Department of Civil, Urban, Earth and Environmental Engineering, [UNIST(Ulsan National Institute of Science and Technology)](https://www.unist.ac.kr/). I obtained a Master’s degree in Robot and Smart System Engineering from [Kyungpook National University](https://en.knu.ac.kr/main/main.htm). My research interests include artificial intelligence, deep learning, computer vision, remote sensing, and related fields. You can find more detailed information in my [CV](/uploads/resume.pdf)🥰.
+Hello! My name is Ziqiang Xu. I am currently a Post-Master Researcher at Department of Civil, Urban, Earth and Environmental Engineering, [Ulsan National Institute of Science and Technology (UNIST)](https://www.unist.ac.kr/). I obtained a Master’s degree in Robot and Smart System Engineering from [Kyungpook National University](https://en.knu.ac.kr/main/main.htm). My research interests include artificial intelligence, deep learning, computer vision, remote sensing, and related fields. You can find more detailed information in my [CV](/uploads/resume.pdf)🥰.
 
 I have completed several projects, including:
 
