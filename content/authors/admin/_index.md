@@ -48,12 +48,12 @@ highlight_name: true
 # Author's website URL
 website: ""
 ---
-Hello! My name is Ziqiang Xu. I am currently a Post-Master Researcher at Department of Civil, Urban, Earth and Environmental Engineering, [Ulsan National Institute of Science and Technology(UNIST)](https://www.unist.ac.kr/). I obtained a Master’s degree in Robot and Smart System Engineering (double major in AI-Converged Safety) from [Kyungpook National University](https://en.knu.ac.kr/main/main.htm). My research interests include artificial intelligence, deep learning, computer vision, remote sensing, and related fields. You can find more detailed information in my [CV](/uploads/resume.pdf)🥰.
+Hello! My name is Ziqiang Xu. I am currently a Post-Master Researcher at Department of Civil, Urban, Earth and Environmental Engineering, [Ulsan National Institute of Science and Technology(UNIST)](https://www.unist.ac.kr/). I obtained a Master’s degree in Robot and Smart System Engineering (double major in AI-Converged Safety) from [Kyungpook National University](https://en.knu.ac.kr/main/main.htm). My research interests include Computer vision, Remote sensing, and Agentic AI. You can find more detailed information in my [CV](/uploads/resume.pdf)🥰.
 
 I have completed several projects, including:
 
 1. A Laboratory Management System Based on WeChat Mini Programs  
-   – Undergraduate Thesis (2023)
+   – Undergraduate Thesis (2023) advised by [Prof.Yingliang Zhao](https://5y.nuc.edu.cn/info/1708/13597.htm)  
 
 2. 👉[GreenViT](https://github.com/knuxzq/GreenViT)  
    The project has been uploaded to GitHub (2025)
